@@ -1,0 +1,6 @@
+{
+  "name": "IZI Tech Project - Creative Coder & Tech Workspace",
+  "description": "Futuristic tech workspace featuring Izi Izudin portfolio, API Center playground, IZI AI Assistant with multi-personas, WhatsApp Cloud API Center, Projects & IT Tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
